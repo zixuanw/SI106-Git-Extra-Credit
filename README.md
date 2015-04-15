@@ -252,8 +252,12 @@ except:
 # with at least four different FAA airport codes. 
 
 # Then, use iteration and invocations of the safe_airport_data function 
+
+#try using stirng interpolation to iterate through the code.
+
 # to write a CSV file called "airport_temps.csv" with 4 columns in it: 
 # airport_name, status_reason, current_temp, recent_update
+
 
 # The CSV file you write should have at LEAST five rows -- 
 # one for the header (the column names),
