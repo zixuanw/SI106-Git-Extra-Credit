@@ -252,6 +252,7 @@ except:
 # with at least four different FAA airport codes. 
 
 # Then, use iteration and invocations of the safe_airport_data function 
+#interms of iteration, try using string interpoluation to be most efficient.
 
 #try using stirng interpolation to iterate through the code.
 
