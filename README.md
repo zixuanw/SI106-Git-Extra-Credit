@@ -264,3 +264,5 @@ except:
 
 
 # Open the document in Excel or Google Sheetes to make sure that it is properly formatted. (We will do that when we are grading!)
+#When planning to open data in excel, first save this file in textWrangler. Then, try opening the new csv file you created
+# in TextWrangler as well. The rows should be correct and the columns should be separated by commas. 
