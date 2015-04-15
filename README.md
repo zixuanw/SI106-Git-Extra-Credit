@@ -192,7 +192,7 @@ print '---------------------------------'
 
 fav_airports = ['PIT', 'BOS', 'LGA', 'DCA']
 # write your code here:
-
+# It would be most helpful to prin out the nested data and then go through to find what you are looking for.
 
 # [PROBLEM 5]
 # Error handling and exceptions
@@ -252,8 +252,12 @@ except:
 # with at least four different FAA airport codes. 
 
 # Then, use iteration and invocations of the safe_airport_data function 
+
+#try using stirng interpolation to iterate through the code.
+
 # to write a CSV file called "airport_temps.csv" with 4 columns in it: 
 # airport_name, status_reason, current_temp, recent_update
+
 
 # The CSV file you write should have at LEAST five rows -- 
 # one for the header (the column names),
