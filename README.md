@@ -192,7 +192,7 @@ print '---------------------------------'
 
 fav_airports = ['PIT', 'BOS', 'LGA', 'DCA']
 # write your code here:
-
+# It would be most helpful to prin out the nested data and then go through to find what you are looking for.
 
 # [PROBLEM 5]
 # Error handling and exceptions
